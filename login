@@ -1,1 +1,1 @@
-ample page
+this is ample page
